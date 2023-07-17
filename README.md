@@ -62,7 +62,7 @@ _________________
 
 ![image](https://github.com/probablyabdullah/Prognostication-in-Agriculture-using-Neural-Networks/assets/79295754/c7c9ab6b-346c-43b2-b5cb-69851d80cba9)
 
-### Predictions of the training set and the test set using the fitted Neural Network. After inverse normalisation of data and linear regrassion, we get the following
+### Predictions of the training set and the test set using the fitted Neural Network. After inverse normalisation of data and linear regression, we get the following
 
 ![image](https://github.com/probablyabdullah/Prognostication-in-Agriculture-using-Neural-Networks/assets/79295754/0f5fbdab-cf6f-4914-aa70-24891bde88c9)
 
