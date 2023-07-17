@@ -71,3 +71,9 @@ _________________
 
 
 ![Screenshot (1151)](https://github.com/probablyabdullah/Prognostication-in-Agriculture-using-Neural-Networks/assets/79295754/4439cdaa-0709-42ee-953c-aa763f81e9ec)
+
+__________________________
+### Credits
+This project was created in a guided project form with the framework created by Dr.Yaroslav Vyklyuk, prof., PhD., DrSc.<br>
+Find more such guided projects on [cognitiveclass.ai](https://cognitiveclass.ai/courses/course-v1:IBM+GPXX04P5EN+v1).<br>
+Copyright &copy; 2020 IBM Corporation. This notebook and its source code are released under the terms of the `MIT License`
