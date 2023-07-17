@@ -46,7 +46,7 @@ ________
 ________
 ### Dataset
 The Dataset being used here is `Pesticide sales`, referring to sales of pesticides in Europe between 2011-2012 on the Eurostat website. Eurostat has a policy of encouraging the free re-use of its data, both for non-commercial and commercial purposes. 
-[Check out the dataset!](https://pandas.pydata.org/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkGuidedProjectsdatascienceinagricultureprognosticationusingbyneuralnetwork466-2022-01-01](https://ec.europa.eu/eurostat/databrowser/view/AEI_FM_SALPEST09__custom_1145078/default/table?lang=enhttps:%2F%2Fec.europa.eu%2Feurostat%2Fdatabrowser%2Fview%2FAEI_FM_SALPEST09__custom_1145078%2Fdefault%2Ftable%3Flang%3Den)https://ec.europa.eu/eurostat/databrowser/view/AEI_FM_SALPEST09__custom_1145078/default/table?lang=enhttps:%2F%2Fec.europa.eu%2Feurostat%2Fdatabrowser%2Fview%2FAEI_FM_SALPEST09__custom_1145078%2Fdefault%2Ftable%3Flang%3Den)
+[Check out the dataset!](https://ec.europa.eu/eurostat/databrowser/view/AEI_FM_SALPEST09__custom_1145078/default/table?lang=enhttps:%2F%2Fec.europa.eu%2Feurostat%2Fdatabrowser%2Fview%2FAEI_FM_SALPEST09__custom_1145078%2Fdefault%2Ftable%3Flang%3Den)
 _________________
 ## Takeaways
 
